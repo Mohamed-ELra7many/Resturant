@@ -55,7 +55,7 @@ nav{
   @media (max-width:768px) {
     
     nav .links-mobile{
-        position: absolute;
+        position: fixed;
         display: block;
         list-style-type: none;
         left: 0;
