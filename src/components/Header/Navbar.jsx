@@ -48,22 +48,3 @@ const Navbar = () => {
 }
 
 export default Navbar
-
-{/*
-<nav>
-      <div className='container'>
-        <NavLink to="/" className="d-flex">
-          <div className="logo">
-          </div>
-          
-        </NavLink>
-        <NavLink to="/cart">
-          <div className='d-flex'>
-            <i className='fa fa-shopping-cart'></i>
-            <span className='bag-quntity'>
-              <span>{state.length}</span>
-            </span>
-          </div>
-        </NavLink>
-      </div>
-*/}
